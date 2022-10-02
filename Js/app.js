@@ -1,4 +1,4 @@
-import {getSalat} from "/Js/get_salat_times.js";
+import {getSalat} from "../Js/get_salat_times.js";
 
 
 /*
