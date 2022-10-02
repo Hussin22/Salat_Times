@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background-image: url("/Imgs/Bg.jpg");
+  background-image: url("../Imgs/Bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   backdrop-filter: opacity(1%);
@@ -40,7 +40,7 @@ margin: 30px auto;
   display: flex;
   margin: 30px auto;
 
-  background-image: url("/Imgs/pray.jpg");
+  background-image: url("../Imgs/pray.jpg");
   background-repeat: no-repeat;
   color: white;
   border-radius: 5%;
